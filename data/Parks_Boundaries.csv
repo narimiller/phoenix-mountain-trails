@@ -1,0 +1,232 @@
+﻿OBJECTID,PROPERTY_NAME,ADDRESS,PROPERTY_TYPE,PARK_TYPE,PARK_ACRES,TURF_SQFT
+1,Hayden Park,322 W Tamarisk Ave,1,Community,12.19661686,389638.81598046
+2,10th Street Wash Basin,1001 E Townley,1,Neighborhood,491.54755061,184022.28886545
+3,Mercury Mine Basin,3535 E Mountain View,1,Neighborhood,64.19679807,66807.78307977
+5,Matthew Henson Park,803 W Tonto St,1,Pocket,9.60652842,32505.79628322
+6,Telephone Pioneers of America Park,1946 W Morningside Dr,1,Neighborhood,51.8971486,100985.25216047
+7,Coyote Basin,2730 E Beardsley Rd,1,Neighborhood,1660.42512411,554858.89560716
+8,Grovers Basin,17447 N 20th St,1,Neighborhood,21.33988568,853228.40696637
+9,Quail Run Basin,18434 N 12th St,1,Neighborhood,3.11861182,126346.18354373
+10,Turtle Rock Basin,17414 N 12th St,1,Neighborhood,16.44920954,544222.47651066
+11,Playa Margarita Park,3615 W Roeser Rd,1,Community,13.12176504,120779.44264307
+12,El Reposo Park,502 E Alta Vista Rd,1,Community,23.74449381,646443.7246763
+13,El Prado Park,6428 S. 19th Ave,1,Community,25.17287518,1111412.28617783
+14,Nevitt Park,6815 S 44th Way,1,Neighborhood,14.16689568,276032.75977942
+15,Cesar Chavez Park,7858 S 35th Ave,1,Regional,441.89519645,
+16,Francisco Highland Park,2702 E South Mountain Ave,1,Neighborhood,16.46862424,236834.73649874
+18,43rd Avenue & Southern Ave SEC Basin,43rd Avenue & Southern Ave SEC,1,Community,193.27989021,550981.69151252
+19,Laveen Area Conveyance Channel, ,1,Linear,30.89282838,
+20,Indian Bend Wash Basin,Thunderbird Rd at SR 51,1,Neighborhood,14.42958117,170090.94735277
+21,Sunset Basin,63rd Ave & Indian School,1,Neighborhood,5.32062982,334643.99424965
+22,Bethany Home Outflow Channel,Camelback to 75th Ave,1,Linear,0.66378774,
+23,Patriots Square Park,Central Ave & Washington St,3,Mixed Use,4.12418013,
+24,Cancer Survivors Park,1428 N 1st St,1,Linear,4.99804304,
+25,Park of 4 Waters,4619 E Washington St,3,Museum,8.32352281,
+26,Old Cross Cut Canal,Osborn Rd & 48th St to Indian School Rd,1,Linear,91.38717044,804723.38916087
+27,Cementerio Lindo,1502 W Maricopa Freeway,3,Cemetery,44.29532734,
+28,Shemer Art Center,5005 E Camelback Rd,3,Museum,35.90430892,
+29,Ak-Chin Pavilion,2121 N 83rd Avenue,3,Event Space,35.78584748,
+30,American Family Fields of Phoenix,3600 N 56th Ave,3,Stadium,3.31823332,
+31,Pioneer & Military Memorial,1400 W Jefferson St,3,Cemetery,0.31214414,
+32,Tovrea Castle,5041 E Van Buren St,3,Museum,0.21628839,
+33,Pueblo Grande Museum,4619 E Washington St,3,Museum,0.32872605,
+34,Heritage Square Science & History Museum,115 N 6th St,3,Mixed Use,0.40450926,
+35,Hermoso Park,2030 E Southern Ave,1,Community,9.83866936,776966.69277056
+36,Momo Park,5447 S 5th St,1,Pocket,60.73486291,22490.68891064
+37,Margaret T. Hance Park,67 W Culver,1,Regional,27.15306093,584057.19940526
+38,Mountain View Community Center Park,"1104 E. Grovers Avenue
+",1,Community,15.57109365,93078.76050937
+39,Dove Valley Park,4740 E Rancho Paloma Dr,1,Neighborhood,78.55110178,46659.16136424
+40,Conocido Park,15645 N 31st Ave,1,Community,33.5395572,1154011.71570791
+41,Adobe Mountain Park,3410 W Crest Dr,1,Neighborhood,7.08015736,132360.8496007
+42,Laveen Village Park,3146 W Vineyard Rd,1,Neighborhood,12.3203834,341308.03011172
+43,Tramonto Park,35425 N. 32nd Dr,1,Neighborhood,2.20735364,255293.81332952
+44,John F. & Mary P. Long Homestead Park,2602 W. Glendale Ave,1,Neighborhood,14.42088126,80490.45043291
+45,Winifred Green Park,1702 W Peoria Ave,1,Neighborhood,43.36789167,49849.14902474
+46,Peace Park,5221 S 13th Pl,1,Pocket,4.64763424,
+47,Pioneer Village,I-17 Freeway & Pioneer Road,3,Museum,4.30082442,
+48,Lookout Mountain, ,2,Mountain Preserve,129.18709129,
+49,Shadow Mountain, ,2,Mountain Preserve,8.66504675,
+50,Stoney Mountain, ,2,Mountain Preserve,2.75920874,
+51,North Mountain Shaw Butte, ,2,Mountain Preserve,22.67383968,
+52,Piestewa Peak, ,2,Mountain Preserve,27.90730635,
+53,South Mountain, ,2,Mountain Preserve,23.25227074,
+54,Phoenix Sonoran Preserve, ,2,Mountain Preserve,8.03833812,
+55,Cave Buttes Rec Area,Jomax Rd E of Cave Creek Rd,1,Natural Park,96.56004656,
+56,Reach 11 Rec Area,N CAP Canal Cave Creek to Scottsdale,1,,32.38510157,
+57,Union Hills,16th St & Beardsley,2,Mountain Preserve,1.47092083,
+58,Buffalo Ridge,16th St & Beardsley,2,Mountain Preserve,0.24219478,
+59,Desert Broom Park,29440 N. Cave Creek Rd,1,Community,67.2698823,226567.59303102
+60,Trailside Point Park,7215 W. Vineyard Rd,1,Neighborhood,17.55336619,409791.06046603
+61,51st Ave & Sweetwater Ave Park,51st Ave & Sweetwater Ave,1,Community,61.552942,535953.05797223
+62,Santa Maria Park,3425 S 71st Ave,1,Community,55.10312352,759451.31188279
+63,Portland Parkway,Portland St between 3rd and Central Ave,1,Linear,14.01792523,48654.77500982
+64,Hyde Park,2500 W Jefferson St,1,Pocket,32.0402624,10992.97006035
+65,Country Club Oval,826 E Windsor Ave,1,Pocket,9896.19646576,56859.26983148
+78,Kuban Community Park,3275 W Sherman St,1,Neighborhood,1002.3492344,120616.07426385
+82,Dust Devil Park,10645 W Camelback Rd,1,Neighborhood,7.72537097,
+83,Pecos Park,17010 S 48th St,1,Regional,1.79558478,1440800.94817929
+84,Hilaria Rodriguez Park,2819 E Adams St,1,Pocket,11.06625441,
+86,Surrey Park,3835 W. Joan De Arc Ave,1,Neighborhood,519.82399206,301843.45311372
+88,Manzanita Park,5500 S 31st Ave,1,Community,357.17387493,884656.84454724
+89,La Pradera Park,6830 N 39th Ave,1,Regional,7.48002069,1236526.03060384
+90,Washington Park,6655 N 23rd Ave,1,Regional,18.74120719,1212763.49397311
+91,Desert Star Park,8550 W. Encanto Blvd,1,Neighborhood,7.13049932,509208.24027063
+92,Sueno Park,4401 West Encanto Blvd,1,Community,10.72189268,1320086.54696977
+93,Pierce Park,2150 N 46th St,1,Community,19.67303628,574033.64432479
+94,Coronado Park,1717 N 12th St,1,Community,49.83943193,242128.99244297
+95,Townsend Park,520 E. Lynwood St,1,Pocket,71.81648103,40429.4367494
+96,Falcon Park,3420 W Roosevelt St,1,Community,4.6148544,320999.37813075
+97,Sunridge Park,6201 West Roosevelt St,1,Neighborhood,12.02503196,454992.56671512
+98,Roosevelt Park,837 North 3rd Ave,1,Pocket,2.18746832,19707.77458281
+99,Hu-O-Te Park,641 N. 11th Ave,1,Pocket,8.57109067,5645.29848678
+100,Willow Park,2815 W. Taylor St,1,Neighborhood,26.735067,62294.38511564
+101,University Park,1102 W. Van Buren St,1,Neighborhood,0.78849005,203009.39197692
+102,Verde Park,916 E. Van Buren St,1,Neighborhood,8.65025477,84603.40621036
+103,Smith Park,4030 West Sherman Rd,1,Neighborhood,24.61358616,122782.178276
+105,Grant Park,701 S 3rd Ave,1,Community,9.2244757,29433.26386552
+106,Ninos Park,1146 W Hadley St,1,Pocket,38.38610534,8855.14548026
+107,Sherman Parkway,2124 West Sherman St,1,Neighborhood,1.62752556,73268.12273491
+108,Central Park,140 E Tonto St,1,Neighborhood,2.17791316,66090.88116936
+109,Harmon Park,1425 S. 5th Ave,1,Community,42.85746838,182621.95293096
+110,Lewis Park,1238 S 13th Pl,1,Pocket,27.85170634,5272.58850904
+112,Alkire Park,1602 W Pima St,1,Neighborhood,0.46997857,112886.2805895
+113,Yunya Park,2831 W Washington St,1,Pocket,12.10136642,3268.93965834
+114,Eastlake Park,1549 E. Jefferson St,1,Community,7.97320123,182605.85928057
+115,Coffelt-Lamoreaux Park,1510 S 19th Dr,1,Pocket,24.470851,31925.14783419
+116,Ho-E Park,128 W Illini St,1,Pocket,15.59978545,5583.09911122
+117,Kipok Park,4350 S 9th Ave,1,Pocket,2.80744889,6540.96269018
+118,Lenang Park,2601 E Southgate Ave,1,Pocket,17.01354911,
+119,Mong Park,1432 E Wood St,1,Pocket,55.92367072,4902.43781951
+120,Eototo Park,2223 E Pueblo Street,1,Pocket,66.86806725,
+121,Nueve Park,4418 S 9th St,1,Neighborhood,33.46276259,268371.25677373
+122,Bishop Alexis A. Thomas Park,1925 E Carver Dr,1,Pocket,0.83260103,14023.8797727
+123,Barrios Unidos Park,1501 E Mohave St,1,Community,11.47609813,311236.36622899
+124,Green Valley Park,2244 S 14th St,1,Neighborhood,54.11415261,143198.75448858
+126,Yapa Park,2732 E Mobile Ln,1,Pocket,31.67523339,2975.18492504
+127,Roesley Park,4205 South 15th Ave,1,Neighborhood,1.30530922,83492.83794456
+128,Esteban Park,3345 E Roeser Rd,1,Regional,29.32828268,1700129.61458422
+129,Lindo Park,2230 W Roeser Rd,1,Community,4.79817179,773521.85221484
+130,Phoenix Municipal Stadium,5999 E. Van Buren St,3,Stadium,37.36880666,
+131,Civic Space Park,424 N Cental  Ave,1,Community,0.32324551,41067.21288081
+132,Cielito Park,3402 W Campbell Ave,1,Community,10.40439898,1416404.03584212
+133,Holiday Park,4530 N 67th Ave,1,Neighborhood,19.60949108,123626.2160207
+134,Vista Canyon Park,16020 S. 30th St,1,Community,37.19647648,971088.71134208
+136,Longview Park,4040 N 14th St,1,Neighborhood,7.14182872,94224.35151396
+137,Reach 11 Sports Complex,2425 E Deer Valley Rd,1,Regional,10.33634921,2489268.64199909
+138,Papago Dist Park,625 N. Galvin Parkway,1,Regional,0.19592837,940447.84786188
+139,Paseo Highlands Park,3435 W. Pinnacle Peak Rd,1,Regional,13.84247312,917091.29754127
+140,Cashman Park,22222 N 44th St,1,Neighborhood,8.11045129,189013.99199454
+141,Desert Willow Park,4040 E. Desert Willow Parkway,1,Neighborhood,18.94314342,280000.64175592
+142,Dynamite Park,4550 E. Dynamite Blvd,1,Neighborhood,4.36130343,59772.77604425
+143,Deem Hills Park,26777 N Deem Hills Pky,1,Community,5.94629649,458573.1930515
+144,John W. Teets Park,4380 E. Ramuda Dr,1,Neighborhood,11.04760841,218511.80713284
+145,Deer Valley Park,19602 N 19 Ave,1,Regional,30.74803634,929310.06079599
+146,Buffalo Ridge I Park,19250 N 16th St,1,Community,197.98842012,325785.80724305
+147,Paradise Valley Park,17402 N 40th St,1,Regional,8.50475273,1490633.57554606
+148,Los Olivos Park,2802 E Devonshire Ave,1,Community,320.22446472,855560.71160255
+150,El Oso Park,3451 N. 75th Ave,1,Community,0.63852259,1067076.61858848
+151,Arcadia Park,3402 N 56th Street,1,Community,9.56829484,303531.84267978
+152,Kachina Park,4304 E. Campbell Ave,1,Neighborhood,16410.75995749,
+153,Maryvale Park,4420 N. 51st Ave,1,Community,1.65958209,268319.48883585
+154,Steele Indian School Park,300 East Indian School Rd,1,Regional,33.6076019,1421582.26042641
+155,Madison Park,1440 E Glenrosa Ave,1,Community,72.47724044,468841.68030107
+156,Starlight Park,7810 W Osborn Rd,1,Neighborhood,2.64066242,195387.50149997
+157,Marivue Park,5625 W Osborn Rd,1,Community,4.84549394,1143689.53276798
+158,Orme Park,3201 N 47th Ave,1,Neighborhood,10.1023205,145479.93946461
+159,Maryvale Tot Lot Park,3206 N 65th Ave,1,Pocket,0.27336825,9500.96809142
+160,Kids Street Park,4535 N. 23rd Ave,1,Neighborhood,36.91978502,20674.42521503
+161,Tawa Park,4540 N 11 Ave,1,Pocket,341.87819631,2246.53993111
+162,Solano Park,5625 North 17th Ave,1,Neighborhood,4.07711999,318199.16202579
+163,Little Canyon Park,3201 W Missouri Ave,1,Neighborhood,2595.17122261,515521.55719283
+164,Highline Park,1346 E South Mountain Rd,1,Community,9.93896428,456271.50677686
+165,Ma-Ha-Tuak Park,9832 S 7th Ave,1,Neighborhood,44.11749216,154388.92044794
+166,Western Star Park,4425 E. Western Star Blvd,1,Neighborhood,2.22910157,182856.3842459
+167,Mountain Vista Park,13647 S 50th St,1,Community,51.80906233,1294138.23400389
+168,Sun Ray Park,4059 E Ray Rd,1,Community,10.99485668,580170.23987286
+169,Desert Foothills Park,1010 Marketplace Southwest,1,Community,8.36505719,659186.21899371
+170,Granada Park,6505 N 20th St,1,Community,1.43374287,447478.46662856
+171,West Plaza Park,6549 N. 43rd Ave,1,Neighborhood,0.19272548,192423.16070703
+172,Sumida Park,1817 E. Gardenia Rd,1,Neighborhood,1.30294305,168218.6417955
+173,Desert Storm Park,1712 E Colter St,1,Neighborhood,43.34148927,120587.34787036
+174,Colter Park,902 W Colter St,1,Neighborhood,4.50425164,245348.05690511
+175,Kierland Park,15800 N. 66th St,1,Neighborhood,14.57696608,265935.90746666
+176,Palomino Park,15815 N. 30th St,1,Neighborhood,3.93146042,233448.45726813
+177,Moon Valley Park,502 W. Coral Gables Dr,1,Community,0.4640552,646724.37791411
+178,Crossed Arrows Park,6102 E Acoma Dr,1,Neighborhood,0.2974489,922679.97561657
+179,Country Gables Park,3120 W Banff Ln,1,Neighborhood,39.07149641,171029.66172808
+180,Lookout Mountain Park,14441 N 18 St,1,Community,1.32398998,235145.53400349
+181,Venturoso Park,14425 N 32nd St,1,Community,25.64370106,513486.47432705
+182,Acoma Park,14421 N 39th Ave,1,Neighborhood,11.86336235,326816.74301414
+183,Acacia Park,2944 W Hearn Rd,1,Neighborhood,0.45953771,314459.29780006
+184,Sandpiper Park,6530 E. Hearn Rd,1,Neighborhood,8.34894263,786496.86769405
+185,Indian Bend Park,3701 E. Thunderbird Rd,1,Neighborhood,36.37729039,105481.23074809
+187,Sereno Park,5702 East Sweetwater Ave,1,Community,221.06945308,1261580.01546889
+188,Cactus Park,3801 W Cactus Rd,1,Community,7.04298199,1011328.69529917
+189,Sweetwater Park,13230 North 44th St,1,Community,18.38732586,
+190,Sonrisa Park,12812 North 52nd St,1,Neighborhood,164.61239143,442190.15944493
+191,Westown Park,12635 N. 33rd Ave,1,Neighborhood,2.08370901,149543.18425362
+192,Roadrunner Park,3502 E Cactus Rd,1,Community,134.0633282,1077136.42448683
+193,Altadena Park,3711 E Altadena Ave,1,Neighborhood,8.27714944,234838.60073681
+194,Cholla Cove Park,4121 E Lupine Ave,1,Neighborhood,2.99086006,126579.08075436
+195,Christy Cove Park,2352 E Christy Dr,1,Neighborhood,8.86063474,161556.34596058
+196,Ladmo Park,3101 N 41st Dr,1,Pocket,657.38119262,3122.74957878
+197,Perry Park,2700 N. 32nd St,1,Neighborhood,5.74121815,239613.97638527
+198,Desert West Park,6501 W Encanto Blvd,1,Regional,3.38319097,1939976.24944381
+199,Virginia Park,1504 E Virginia Ave,1,Pocket,1610.17943168,8943.98494503
+200,Monterey Park,350 E Oak St,1,Neighborhood,3777.95308623,247315.86335229
+201,Werner's Field,17831 N 7th Ave,1,Neighborhood,37.96183778,205418.88292165
+202,Moonlight Park,16406 N 10th Ave,1,Pocket,27.59159829,
+203,Jackrabbit Park,6002 E Paradise Ln,1,Neighborhood,4.41883466,372979.7580551
+204,Sunburst Paradise Park,16225 N 47th Ave,1,Neighborhood,18.78096521,386007.52064925
+205,Paradise Cove Park,3930 E Monte Cristo Rd,1,Neighborhood,0.26580458,576703.54396634
+206,Desert Horizon Park,16002 N 56th St,1,Community,3.76592804,919425.30053311
+208,Harvest Park,5400 W Gwen St,1,Neighborhood,7.61716468,
+209,Laveen Heritage Park ,71st Avenue and Meadows Loop Rd,1,Neighborhood,1.77467519,
+212,Farmland Park,87th Ave & Lower Buckey Rd,1,Neighborhood,9.72977507,
+219,Papago Park I,Van Buren St /Galvin Parkway,1,Natural Park,17.75523957,
+221,Ludden Mountain,58th Ave & Happy Valley Rd,2,Mountain Preserve,0.50434426,
+222,Echo Canyon Camelback Mountain,E McDonald Dr @ Tatum,2,Mountain Preserve,18.53297904,
+223,Pitcher Hill,64th Ave & Happy Valley Rd,2,Mountain Preserve,8.78386297,
+224,Casa de Montanes,52st Ave & SR 101 Freeway,2,Mountain Preserve,35.52226642,
+225,Aguila Golf Course,8440 S 35th Ave,3,Golf Course,2.19649566,
+226,Cave Creek Golf Course,15202 N 19th Ave,3,Golf Course,27.39518861,
+228,Maryvale Golf Course,4444 N 51st Ave,3,Golf Course,15.00669974,
+229,Palo Verde Golf Course,6215 N 15th Ave,3,Golf Course,77.94760349,
+230,Papago Golf Course,5595 E Moreland,3,Golf Course,86.95697882,
+232,Edison Park,901 North 19th St,1,Neighborhood,37.6896181,170652.44956907
+233,Mountain View Park,9901 N. 7th Avenue,1,Community,19.5657061,666562.11073449
+234,Sunnyslope Park,802 E Vogel Ave,1,Neighborhood,45.58558456,29485.31257683
+235,Norton Park,1224 E Hatcher Rd,1,Neighborhood,464.6803785,152608.48307625
+236,Cortez Park,3434 W Dunlap Ave,1,Community,21.06849208,853806.00209389
+237,Palma Park,1135 E. Dunlap Ave,1,Neighborhood,4.06720439,247895.18376231
+238,Herberger Park,301 W Dunlap Ave,1,Pocket,175.77455485,
+239,Alicia Park,2021 W Alice Ave,1,Neighborhood,172.21591598,263906.92129146
+240,Hoshoni Park,8515 N. 39th Ave,1,Neighborhood,0.20205037,297391.34687112
+241,Royal Palm Park,8405 N 15th Ave,1,Neighborhood,9.36880529,1094623.64170119
+242,Mariposa Park,3203 W Morten Ave,1,Neighborhood,0.84565723,628206.98635651
+244,Lyceum Park,4330 N 7TH Ave,1,Pocket,37.14753025,
+1060,Carver Mountain,SEC of 43rd Av and Elliot Rd,2,Mountain Preserve,13.72192872,
+1381,American Legion,715 S 2nd Ave,3,Mixed Use,16.97107233,
+1382,Camp Colley,7379 Forest Service Rd,3,Mixed Use,58.39605463,
+1722,Rose Mofford Sports Complex,9833 N 25th Ave,1,Regional,1.19375302,1297787.1777436
+2037,South Phoenix Youth Center,5245 S 7th St,3,Educational,21.97900658,
+2039,Brett Tarver Learning Center,1516 N 35th Ave,3,Educational,10.15991215,
+2040,Nuestro Park,1433 S 9th St,1,Neighborhood,10.91904206,161682.89098733
+2376,Pinnacle Park,N CAP Canal Cave Creek to Scottsdale,1,Community,10.25642682,82729.81033977
+2713,Tierra Montana,5353 W Country Garden Ln,1,Pocket,181.65055661,
+3017,Deem Hills,51st Ave/Jomax Rd,2,Mountain Preserve,31.61358707,
+3981,Cave Creek Park - Cactus,"Greenway, South to ACDC",1,Neighborhood,3.5717818,
+3982,Cave Creek Park - Larkspur,"Greenway, South to ACDC",1,Neighborhood,0.57952831,
+3983,Cave Creek Park - Sweetwater,"Greenway, South to ACDC",1,Neighborhood,0.21110179,774416.94769036
+3984,Cave Creek Park - Cholla,2505 W Cholla St,1,Community,763.29906568,664396.16889489
+3985,Cave Creek Park - Thunderbird,13670 N 23rd Ave,1,Regional,7.79040491,171830.48246972
+4297,Cave Creek - Sandilly,2500 W Cactus Rd,1,Neighborhood,10.25216732,415567.31811393
+4938,Rio Salado,I-10 to 19th Ave,1,Natural Park,4.9470887,
+5260,Encanto Park,2605 N 15th Ave,1,Regional,4.52537503,1154647.87946364
+5266,Encanto Golf Course,2125 N 15th Ave,3,Golf Course,4.6657821,
+5587,Library Park,1101 W Washington St,3,,4.19761692,
+5907,G.R. Herberger Park,5802 E Indian School Road,1,Neighborhood,43.19014383,134991.09170841
+6869,AZ Horse Lover’s Park,19224 N Tatum Blvd,1,,38.06171631,
+6870,Woodland Park,9th Ave and Van Buren St,1,,4.07393633,
+6871,Neighborhood Vista Park,6237 W Osborn Rd,1,,153.17341355,
